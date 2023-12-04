@@ -1,0 +1,41 @@
+.mainStyle {
+  display: flex;
+  flex-direction: column;
+  background-color: darkgrey;
+  height: 100%;
+  width: 100%;
+}
+
+.profileHeader {
+  padding: 0 3rem;
+  display: flex;
+  background-color: aquamarine;
+  height: 30%;
+  width: 100%;
+}
+.logoHeader {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.infHeader {
+  width: 80%;
+  margin-left: 2;
+}
+.medium {
+  display: flex;
+  justify-content: space-around;
+  height: 10%;
+
+  border-bottom: solid;
+  border-bottom: thin medium;
+
+  border-top: solid;
+  border-top: thin medium;
+}
+.mainPart {
+  height: fit-content;
+  padding-top: 0px;
+}

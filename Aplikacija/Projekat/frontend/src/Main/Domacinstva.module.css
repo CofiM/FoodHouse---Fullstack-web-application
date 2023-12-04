@@ -1,0 +1,13 @@
+.allDomacinstva {
+  width: fit-content;
+  margin: auto;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+.Domacinstvo {
+  width: 500px;
+}
+.inputtt {
+  display: flex;
+  flex-direction: column;
+}

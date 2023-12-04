@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+}
+
+.leftSide{
+    display: flex;
+    width: 20%;
+}
+.rightSide{
+    display: flex;
+    width: 80%;
+}
+.MessagesDiv{
+    display: flex;
+    flex-direction: column;
+    width: 160%;
+}
+.Message{
+    display: flex;
+    width: 40%;
+}
+.MessageCard{
+    display: flex;
+    width: 150%;
+}

@@ -1,0 +1,25 @@
+.mainDesign {
+  height: 100%;
+  margin-top: 2.5rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 1.5rem;
+}
+.labelLeft {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  font-size: 20px;
+  padding-bottom: 2rem;
+}
+.labelRight {
+  height: 100%;
+  font-size: 20px;
+  margin-left: 1rem;
+  padding-bottom: 2rem;
+}
+.wrap {
+  display: grid;
+  grid-template-columns: auto auto;
+}
